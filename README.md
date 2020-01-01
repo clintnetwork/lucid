@@ -1,4 +1,4 @@
-# About Lucid ᵏᵛ - [[Project Move Here]](https://github.com/lucid-kv/lucid)
+# About Lucid ᵏᵛ - [[Project Moved Here]](https://github.com/lucid-kv/lucid)
 
 High performance and distributed KV store accessible through an HTTP API. Written in Rust. 🦀
 
